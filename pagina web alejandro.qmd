@@ -1,14 +1,12 @@
 title: "mi página web"
 author: "Alejandro Mendoza"
 format:
-  html:
+  html: 
     toc: true
     toc-location: left
     number-sections: true
     embed-resources: true
     output-file: index
-editor_options: 
-  chunk_output_type: console
 
 ---
 
