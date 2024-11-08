@@ -1,3 +1,4 @@
+---
 title: "mi página web"
 author: "Alejandro Mendoza"
 format:
@@ -7,7 +8,6 @@ format:
     number-sections: true
     embed-resources: true
     output-file: index
-
 ---
 
 ## Quarto
