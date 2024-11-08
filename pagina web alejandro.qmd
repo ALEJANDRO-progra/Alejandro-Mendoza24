@@ -1,8 +1,8 @@
 ---
-title: "mi página web"
-author: "Alejandro Mendoza"
+title: "Como usar quarto"
+author: "Alejandro"
 format:
-  html: 
+  html:
     toc: true
     toc-location: left
     number-sections: true
